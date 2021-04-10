@@ -13,6 +13,9 @@ border-bottom-style: none;
 border-width: 5px;
 
     }
+ a{
+        text-decoration:none;
+        }
     .profile{
         height: 150px;
         cursor: pointer;
